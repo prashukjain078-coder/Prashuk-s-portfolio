@@ -7,7 +7,7 @@ Personal portfolio site with a Three.js particle-sphere splash intro.
 - `portfolio.html` — the full portfolio (tunnel scene, terminal simulation, project carousel, Model Serving Control Room dashboard). Reached via the "Enter" button on the splash page.
 
 ## Live site
-https://<your-github-username>.github.io/<repo-name>/
+https://prashukjain078-coder.github.io/Prashuk-s-portfolio/
 
 ## Stack
 - GSAP 3.12.5 + ScrollTrigger
