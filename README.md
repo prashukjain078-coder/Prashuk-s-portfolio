@@ -3,8 +3,8 @@
 Personal portfolio site. Single-file build using GSAP + ScrollTrigger, Anime.js, Three.js, and Lenis for smooth scroll — featuring a 3D tunnel scene, terminal simulation, project carousel, and an interactive "Model Serving Control Room" dashboard.
 
 ## Live site
+https://<your-github-username>.github.io/<repo-name>/
 
-https://prashukjain078-coder.github.io/Prashuk-s-portfolio/
 ## Stack
 - GSAP 3.12.5 + ScrollTrigger
 - Anime.js 3.2.2
