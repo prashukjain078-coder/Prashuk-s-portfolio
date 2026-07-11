@@ -4,7 +4,7 @@ Personal portfolio site. Single-file build using GSAP + ScrollTrigger, Anime.js,
 
 ## Live site
 
-](https://prashukjain078-coder.github.io/Prashuk-s-portfolio/)
+https://prashukjain078-coder.github.io/Prashuk-s-portfolio/
 ## Stack
 - GSAP 3.12.5 + ScrollTrigger
 - Anime.js 3.2.2
